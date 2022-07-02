@@ -1,0 +1,19 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "server": "node server.js index.html data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natalka2019/node-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natalka2019/node-basic/issues"
+  },
+  "homepage": "https://github.com/Natalka2019/node-basic#readme"
+}
